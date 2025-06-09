@@ -107,7 +107,7 @@ section.hero {
     }
 
     & img[src*="Stars 1"] {
-      max-width: 5.5rem;
+      max-width: 3.5rem;
       top: 30%;
       z-index: 0;
 
@@ -119,7 +119,8 @@ section.hero {
     & img[src*="Stars 2"] {
       max-width: 2.5rem;
       right: 0;
-      bottom: 35%;
+      bottom: 40%;
+
 
       transform: translateX(400%);
       animation: slideIn 2.2s 800ms ease forwards;
